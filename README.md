@@ -14,5 +14,6 @@ Será apresentado:
 - Menu / Tabela de conteudo
 - Tecnologia
 
-  #Badge
-  [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+#Badge
+
+- [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
