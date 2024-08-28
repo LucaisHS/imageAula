@@ -1,2 +1,2 @@
 # imageAula
-<img>/image/melhorFotoDoMundo.png</img>
+<img src="/image/melhorFotoDoMundo.png"></img>
