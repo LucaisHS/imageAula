@@ -25,3 +25,6 @@ Será apresentado:
   <li><a href="#descricaoProjeto">Descrição Projeto</a></li>
   <li><a href="#tecnologias">Tecnologias</a></li>
 </ul>
+
+## 🚀 Status do Projeto
+<h4>Em construção...</h4>
