@@ -8,6 +8,11 @@
 <br>
 <p>Este README tem o objetivo de apresentar uma boa documentação referente a projetos no Github</p>
 
-- Item 1
-- Item 2
-- Item 3
+Será apresentado:
+
+- Badges
+- Menu / Tabela de conteudo
+- Tecnologia
+
+  #Badge
+  [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
