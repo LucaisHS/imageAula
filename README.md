@@ -35,10 +35,13 @@ Será apresentado:
 <h4 id="status">Em construção...</h4>
 
 <div id="features"></div>
-:ballot_box_with_check: ## Features
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [x] Cadastro de produtos
+<h1>:ballot_box_with_check: Features</h1>
+
+<ul>
+  <li>Cadastro de usuário</li>
+  <li>Cadastro de cliente</li>
+  <li>Cadastro de produtos</li>
+</ul>
 
 <div id="rodandoApp"></div>
 <h1>:hammer: rodando aplicação </h1>
