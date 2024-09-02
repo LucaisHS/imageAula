@@ -10,9 +10,11 @@
 
 Será apresentado:
 <p id="itens"></p>
-- Badges
-- Menu / Tabela de conteudo
-- Tecnologia
+<ul>
+  <li>Badges</li>
+  <li>Menu / Tabela de conteudo</li>
+  <li>Tecnologia</li>
+</ul>
 
 <h1>Badge</h1>
 
@@ -55,10 +57,13 @@ Será apresentado:
 
 <div id="tecnologias"></div>
 <h1>:hammer_and_wrench: Tecnologias</h1>
-ferramentas utilizadas no projeto
-- java
-- mysql
-- maven 
+ferramentas utilizadas no projeto:
+<ul>
+  <li>java</li>
+  <li>mysql</li>
+  <li>maven </li>
+</ul>
+
 
 
 
