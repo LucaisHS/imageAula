@@ -41,7 +41,7 @@ Será apresentado:
 
 ## :earth_americas: Mapa do projeto
 - Veja aqui a estrutura dos arquivos do projeto
-- 
+  
 <img src="/image/tree.png"></img>  
 
 ## :hammer_and_wrench: Tecnologias
