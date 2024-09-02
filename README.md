@@ -35,23 +35,23 @@ Será apresentado:
 <h4 id="status">Em construção...</h4>
 
 <div id="features"></div>
-## :ballot_box_with_check: Features
+:ballot_box_with_check: ## Features
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [x] Cadastro de produtos
 
 <div id="rodandoApp"></div>
-## :hammer: rodando aplicação
+:hammer: ## rodando aplicação
 <img src="/image/image.png"></img>  
 
 <div id="mapaProjeto"></div>
-## :earth_americas: Mapa do projeto
+:earth_americas: ## Mapa do projeto
 - Veja aqui a estrutura dos arquivos do projeto
   
 <img src="/image/tree.png"></img>  
 
 <div id="tecnologias"></div>
-## :hammer_and_wrench: Tecnologias
+:hammer_and_wrench: ## Tecnologias
 ferramentas utilizadas no projeto
 - java
 - mysql
