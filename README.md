@@ -28,3 +28,25 @@ Será apresentado:
 
 ## 🚀 Status do Projeto
 <h4>Em construção...</h4>
+
+
+## :ballot_box_with_check: Features
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [x] Cadastro de produtos
+
+## :hammer: rodando aplicação
+<img src="/image/image.png" width="120dp"></img>  
+
+## :earth_americas: Mapa do projeto
+- Veja aqui a estrutura dos arquivos do projeto
+<img src="/image/tree.png" width="120dp"></img>  
+
+## :hammer_and_wrench: Tecnologias
+ferramentas utilizadas no projeto
+- java
+- mysql
+- maven 
+
+
+
