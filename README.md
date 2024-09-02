@@ -41,17 +41,17 @@ Será apresentado:
 - [x] Cadastro de produtos
 
 <div id="rodandoApp"></div>
-:hammer: ## rodando aplicação
+<h1>:hammer: rodando aplicação </h1>
 <img src="/image/image.png"></img>  
 
 <div id="mapaProjeto"></div>
-:earth_americas: ## Mapa do projeto
+<h1>:earth_americas: Mapa do projeto</h1>
 - Veja aqui a estrutura dos arquivos do projeto
   
 <img src="/image/tree.png"></img>  
 
 <div id="tecnologias"></div>
-:hammer_and_wrench: ## Tecnologias
+<h1>:hammer_and_wrench: Tecnologias</h1>
 ferramentas utilizadas no projeto
 - java
 - mysql
