@@ -39,11 +39,11 @@ Será apresentado:
 <div id="features"></div>
 <h1>:ballot_box_with_check: Features</h1>
 
-<ul>
-  <li>Cadastro de usuário</li>
-  <li>Cadastro de cliente</li>
-  <li>Cadastro de produtos</li>
-</ul>
+
+  <p>[x] Cadastro de usuário</p>
+  <p>[x] Cadastro de cliente</p>
+  <p>[x] Cadastro de produtos</p>
+
 
 <div id="rodandoApp"></div>
 <h1>:hammer: rodando aplicação </h1>
